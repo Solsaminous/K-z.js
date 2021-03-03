@@ -1,2 +1,2 @@
-# K-z.js
+# Kız.js
 Kız kayıt eder.
